@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-1",
+    "profile" : "default",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "function-name" : "register-net6",
+    "package-type"  : "Zip",
+    "function-handler" : "Register.Api",
+    "function-memory-size" : 256,
+    "function-role"        : "arn:aws:iam::459094004332:role/lambda_exec_register-net6-1",
+    "function-timeout"     : 10,
+    "function-runtime"     : "dotnet6",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : "",
+    "function-description"     : ""
+}
