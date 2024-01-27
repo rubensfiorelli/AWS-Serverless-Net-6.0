@@ -1,0 +1,1 @@
+# AwsServerless-Net6.0
